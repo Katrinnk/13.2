@@ -1,0 +1,2 @@
+E:\vs\13.2\Debug\13.2.exe
+E:\vs\13.2\Debug\13.2.pdb
